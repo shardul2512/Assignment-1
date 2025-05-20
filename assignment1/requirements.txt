@@ -1,0 +1,7 @@
+# Requirements for the project
+streamlit==1.25.0
+fastapi==0.100.0
+uvicorn==0.23.0
+requests==2.31.0
+cx_Oracle==8.3.0
+pytest==7.4.0
